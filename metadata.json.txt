@@ -1,6 +1,0 @@
-{
-  "name": "BULLDOGO" ,
-  "symbol": "BDOGO" ,
-  "description": "Bulldogo" ,
-  "image": "https://raw.githubusercontent.com/jameslabor/crypto-sol/main/2018_05_03_45219_1525320333._large%20(1).jpg" ,
-}
